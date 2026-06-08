@@ -1,15 +1,12 @@
 # Gerenciador-Biblioteca-Web <br> (front-end)
 
 
-Este é um projeto pessoal para estudos e prática focado no desenvolvimento full-stack.
-
-O projeto será evoluído com o tempo e será adicionado novas funcionalidades.
-A ideia é transformar esse projeto simples, que atualmente funciona somente no back-end com Scanner no terminal, em um projeto FULL STACK, escalável, com utilização de banco de dados, interface interativa, código limpo e documentado.
-Esse projeto será usado para mostrar meu avanço nos estudos da programação full-stack com foco em Java e React.
+Neste repositório será armazenado todos os códigos relacionados a parte front-end do projeto <b>Gerenciador Biblioteca</b>
 
 
-<H3>Confira o resumo do projeto e mais detalhes aqui: </H3>
-https://github.com/FelipeDev00/Gerenciador-Biblioteca
+<H3>Confira o resumo do projeto e mais detlahes aqui: </H3>
+https://github.com/FelipeDev00/Gerenciador-Biblioteca <br>
+(Repositório onde foi armazenado o protótipo do projeto e todas as funcionalidades previstas)
 <br>
 <br>
 <H3> Tecnologias utilizadas no front-end: </H3>
